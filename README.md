@@ -1,4 +1,6 @@
 # first-nuxt-project
+![alt text](https://github.com/juliovt-07/Nuxt-Js/blob/master/Captura%20de%20tela%20de%202021-02-03%2022-45-44.png)
+
 
 ## Build Setup
 
